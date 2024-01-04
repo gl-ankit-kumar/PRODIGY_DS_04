@@ -4,7 +4,7 @@ EXPLORATORY DATA ANALYSIS OVER TITANIC DATASET
 # Prodigy Infotech Data Science Internship Task 04
 
 <div align="center">
-  <img src="https://github.com/gl-ankit-kumar/PRODIGY_DS_02/blob/main/Sentiment Analysis.png" alt="Sentiment">
+  <img src="https://github.com/gl-ankit-kumar/PRODIGY_DS_02/blob/main/Sentiment.webp" alt="Sentiment">
 </div>
 
 
